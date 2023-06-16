@@ -9,9 +9,11 @@ package default_interfaces;
 public interface Default_Interface {
 
 	 default void defaultMethod(){
-		System.out.println("Default method");
+
+		 System.out.println("Default method");
 	}
 	 static  void staticMethod(){
-		System.out.println("Static  method");
+
+		 System.out.println("Static  method");
 	}
 }

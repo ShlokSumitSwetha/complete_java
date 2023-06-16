@@ -3,9 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Complete_Java.iml" filepath="$PROJECT_DIR$/.idea/Complete_Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Default/Default.iml" filepath="$PROJECT_DIR$/Default/Default.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lambda_Expressions/Lambda_Expressions.iml" filepath="$PROJECT_DIR$/Lambda_Expressions/Lambda_Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Local_time/Local_time.iml" filepath="$PROJECT_DIR$/Local_time/Local_time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional/Optional.iml" filepath="$PROJECT_DIR$/Optional/Optional.iml" />
       <module fileurl="file://$PROJECT_DIR$/completable_future/completable_future.iml" filepath="$PROJECT_DIR$/completable_future/completable_future.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Default/default.iml" filepath="$PROJECT_DIR$/Default/default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/streams.iml" filepath="$PROJECT_DIR$/streams/streams.iml" />
     </modules>
   </component>
 </project>
