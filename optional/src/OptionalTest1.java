@@ -1,7 +1,6 @@
 import java.util.Optional;
 
 public class OptionalTest1 {
-
 	public static void main(String[] args) {
 		OptionalTest1 obj=null;
 		OptionalTest1 obj2=new OptionalTest1();
