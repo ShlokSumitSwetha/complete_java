@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Complete_Java.iml" filepath="$PROJECT_DIR$/.idea/Complete_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Default/Default.iml" filepath="$PROJECT_DIR$/Default/Default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda_Expressions/Lambda_Expressions.iml" filepath="$PROJECT_DIR$/Lambda_Expressions/Lambda_Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/completable_future/completable_future.iml" filepath="$PROJECT_DIR$/completable_future/completable_future.iml" />
+    </modules>
+  </component>
+</project>
